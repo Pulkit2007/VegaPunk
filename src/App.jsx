@@ -10,6 +10,6 @@ export default function App(){
           <input className='search-input' type='text' placeholder='Ask Anything'></input>
           <button>Go</button>
     </div>
-    <FileUpload/>
+    <FileUpload onclick/>
   </main>
 }
